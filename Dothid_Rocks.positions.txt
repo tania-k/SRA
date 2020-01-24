@@ -1,0 +1,8 @@
+ASV952	291 bp.	SSU: Not found	ITS1: Not found	5.8S: No start	ITS2: 75-231	LSU: 232-291	Broken or partial sequence, only partial 5.8S! 
+ASV1002	300 bp.	SSU: Not found	ITS1: Not found	5.8S: No start	ITS2: 78-240	LSU: 241-300	Broken or partial sequence, only partial 5.8S! 
+ASV1040	300 bp.	SSU: Not found	ITS1: Not found	5.8S: No start	ITS2: 78-238	LSU: 239-300	Broken or partial sequence, only partial 5.8S! 
+ASV1061	290 bp.	SSU: Not found	ITS1: Not found	5.8S: No start	ITS2: 75-230	LSU: 231-290	Broken or partial sequence, only partial 5.8S! 
+ASV1097	300 bp.	SSU: Not found	ITS1: Not found	5.8S: No start	ITS2: 78-238	LSU: 239-300	Broken or partial sequence, only partial 5.8S! 
+ASV1273	297 bp.	SSU: Not found	ITS1: Not found	5.8S: No start	ITS2: 75-235	LSU: 236-297	Broken or partial sequence, only partial 5.8S! 
+ASV1345	300 bp.	SSU: Not found	ITS1: Not found	5.8S: No start	ITS2: 75-238	LSU: 239-300	Broken or partial sequence, only partial 5.8S! 
+ASV1563	299 bp.	SSU: Not found	ITS1: Not found	5.8S: No start	ITS2: 75-239	LSU: 240-299	Broken or partial sequence, only partial 5.8S! 

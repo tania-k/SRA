@@ -1,0 +1,8 @@
+ASV952	End of SSU sequence not found; Start of 5.8S sequence not found
+ASV1002	End of SSU sequence not found; Start of 5.8S sequence not found
+ASV1040	End of SSU sequence not found; Start of 5.8S sequence not found
+ASV1061	End of SSU sequence not found; Start of 5.8S sequence not found
+ASV1097	End of SSU sequence not found; Start of 5.8S sequence not found
+ASV1273	End of SSU sequence not found; Start of 5.8S sequence not found
+ASV1345	End of SSU sequence not found; Start of 5.8S sequence not found
+ASV1563	End of SSU sequence not found; Start of 5.8S sequence not found

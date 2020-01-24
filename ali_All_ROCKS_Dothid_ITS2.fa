@@ -1,0 +1,702 @@
+>Ochroconis_cordanae_CBS_475_80 170 bp
+-C-A-CACCCCAAG---CTCT-GCTT----------GATGTTGGA--------CGATGCC
+TTGGC----CCTTCTG----GGCTGGGGCACGTCTGGAAC--CCGTGGGC--------GC
+CCCCGCCGAA----CCACGA----GCG----TAGCAAGACGCAAGTC-----AC------
+--TC-----GC------------T---TCTGTCGG--TCTCGGTGG-----------AGG
+GTCTGCC----------TCAA-----------TCCATTTCTGAAGATTGGCC
+>Ochroconis_gamsii_strain_CBS_239_78 197 bp
+-CAA---ACTCCAA---GCGGAGCTT----------GATGTTGGA--------CGATGTT
+TGGGGACAAGCCCAAA------------CACGTCTGGAAC--GCGTTGGC-------GCC
+GCC-GCCGGA----CCACGA----GCG----TAGCAAGACGAAAGTCGATCGTTCGGATG
+GATCTGTCGGCGGCTGCTTCGTAT---CTGGGTGACTTTTCTGCTC-----------CAG
+GGCGGAA----GTCGCGCCAGACACA------------------CAACACCA
+>ASV1472_Capnodiales US|0.9191|KR017112|SH1181894.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCGAG---CTTCGGCTT----------GGTCGTGGG--------CG--TCC
+GTCCT----CCTCCCG-----GGGAAGGCGCGCCCGAAGA-----TTAGCGG-----CGG
+TGCTGCCGGG----TCCCCA-CGGGCG----TAGTAGTTCATCAACCG----TC------
+--TC-----GC------------T---CCGGGTCA------GGACCTTTCAAAGG--CGG
+GAG-CCG----GCCG--AAAAACGACGTCCGCGTCAAACCCA--CAC-----
+>ASV1628_Pleosporales SS|0.8600|KU536289|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+-C-A-AACCTCAAG---CTCA-GCTT----------GGTGATGGG--------TG--ACT
+GT--------CCTGCAGTTATGTACGGACTCGCCTCAAAA-GTAGTTGGCAGCTTATT--
+----CTTTGG----CTCTAA----ACG----CAGCAGATTTGTGTTAATAG---------
+--TC-------------------T------TACGA------AGAAG--------------
+----CTTTCCAGCAA--GCAAATCTT------------TCTA----------
+>ASV1528_Lophiostoma GS|98.9|DQ420820|SH1556692.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Lophiostomataceae,g:Lophiostoma
+ACAA---ATTCAAG---CTCA-GCTT----------GGTGATGGG--------TG--TCT
+GT--------CCCGCCTTTGCGTGTGGACTCGCCTCAAAT-GCAGTTGGCAGCTTGTT--
+----CTTCGA----CTCTAA----ACG----CAGCAGAT---------------------
+--TT-----GC-------------------GTCGAGCGTCGTGCGG-------AC--GGG
+CTC--------TCCAGTAAGCAAACC------CCA---------CA------
+>ASV1351_Pleosporales GS|100.0|GU909911|SH1549098.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+---ACACCTTCAAG---CTCT-GCTT----------GGTGTTGGG--------CG--TCT
+GTCCT---GCCCCTCG---GGGCGTGGACTCGCCTTAAAT--CTATTGGC---------G
+GCCGGTACCGTGG-CTTTGA----GCG----CAGCACAT--CAGCGA-------------
+--CCTCATCGC----------------------------------------------CGT
+AGC-GTA----------TCGACTCCCAGAAGCCCATTTTCTA--TG------
+>ASV1477_Pleosporales GS|99.6|GU909866|SH1541729.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+-T-A-ACCCTCAAG---CTCT-GCTT----------GGTGTTGGG--------TG--TCT
+GTCCT----GCCCTCG----GGTGCGGACTCGCCTTAAAT--TCATTGGC---------G
+GCCGGTACATTGG-CTTCGA----GCG----CAGCAGAA---------------------
+--AC-----GC-------------------GAACT------CGGGG-------ACGGTGG
+ATC-GGC----TCCC--ATAAGCCTT-------------TTTATAA------
+>ASV876_Sporormiaceae GS|100.0|KJ827633|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae
+---AAACCTTCAAG---CTAA-GCTT----------GGTGTTGGGTGACTGTCCG-----
+---------CTTCACG-------GCGGACTCGCCTCAAAA--TTATTGGC---------G
+GCCGGTACATTGG-CTTCGA----GCG----CAGCAGAA---------------------
+--AC-----GC------------------------------GAACT-----------CGG
+GCC---C----GTCGTATTGGCTCCCAGAAGCTAT----CTTCACAA-----
+>ASV1106_Sporormiaceae GSL|100.0|GQ203783|SH1645866.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Sporormiaceae
+---AAACCTTCAAG---CTAA-GCTT----------GGTGTTGGG--------TG--AC-
+----------TGTCCGCTTCACTGCGGACTCGCCTCAAAA--TTATTGGC---------G
+GCCGGTACATTGG-CTTCGA----GCG----CAGCAGAA---------------------
+--AC-----GC------------------------------GAACT-----------CGG
+GCC---C----GTCGTATTGGCTCCCAGAAGCTAT----CTTCACAA-----
+>ASV1173_Pleosporales GS|100.0|KU536927|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+AC-A-ACCCTCAAG---CTCT-GCTT----------GGTGTTGGG--------CG-----
+----TCTGTCCCCGCCTCCGCGCGCGGACTCGCCCCAAAT--CCATTGGCAGC----GGT
+GCCTCCACGC----CCCCGGCCTCGCG----CAGCACA----------------------
+--TC-----GC-------------------GCCTG------GGGCC-----CTGCGGCGG
+GCCCGCG----ACCCAGCAAGGTCCT-------------TTG--CACCCCGT
+>ASV1518_Pleosporales GS|100.0|KU536927|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+AC-A-ACCCTCAAG---CTCT-GCTT----------GGTGTTGGG--------CG--TCT
+GTCCC---CGCCTCCG---C-GCGCGGACTCGCCCCAAAT--CCATTGGCAGC----GGT
+GCCTCCACG-----CCCCCG----GCC----TCGCGCAGCACA-----------------
+--TC-----GC------------G---CCTGGGGC------CCTGC-------GG--CGG
+GCC-CGC----GACCCAGCAAGGTCC------TTT----GCACCCCGT----
+>ASV1115_Didymosphaeriaceae GS|100.0|KU539239|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Didymosphaeriaceae
+AC-A--CCCTCAAG---CTCT-GCTT----------GGTGTTGGG--------CG--TCT
+GTCCC-----GCCTCTGCGC---GCGGACTCGCCCCAAAG--TCATTGGCAG-----CGG
+TCCTTGCCTC----CTCTC-----GCG----CAGCACAT---------------------
+--TT-----GC------------G---CTTCTCGA------GGTGT-------TG--CGG
+C-C-CGC----GTCC--ACGAA----------GCAAACATTA--CCGT----
+>ASV1033_Paraphoma_fimeti GS|100.0|MG915401|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae,g:Paraphoma,s:Paraphoma fimeti
+---GTACCCTCAAG---CTTT-GCTT----------GGTGTTGGG--------TG--TTT
+GTCTT----TTCCACG----CGATTAGACTCGCCTTAAAA--TAATTGGCAGCCAGTGTT
+TTGGTTTTGA----AGCGCA----GCACAAGTCGCGATT---------------------
+--CA-----GC------------T---------------------------------TAT
+ATC-ACTAGTTTCCA--TTAAGCATC-------------TTAT-CAC-----
+>ASV1133_Chaetosphaeronema GS|100.0|MH452230|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Phaeosphaeriaceae,g:Chaetosphaeronema
+GT-A--CTCTCAAG---CTTT-GCTT----------GGTGTTGGG--------TG-----
+----TTTGTCCTTGCCTTTGTGCTTGGACTCGCCTTAAAT--TCATTGGCAGCCAA-TGT
+ATTGGTTTGA----AGCGCA----GCACAATTTGCGGTTCTCACTGATCATCAT------
+--TA-----GC-------------------GTCCA----------------------TAA
+AGC--------ACAA--TTAA-----------------------CAC-----
+>ASV1584_Pleosporales GS|98.8|MG206891|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+---GTACTCTCAAG---CTCT-GCTT----------GGTGTTGGG--------TG-----
+----TTTGTCCTTACCTTTGCGTTTGGACTCGCCTTAAAT--TCATTGGCAGCCTA-TAT
+ATTGGTTTGA----AGCGCA----GCACATTTTGCGGTT--CTGTCT-------------
+---------GA------------T-----------------------------ACTACAA
+G-C--------GTCC--ATAAA----------GCACAATTAA--CAC-----
+>ASV1339_Pleosporales GS|97.7|KF800308|SH1241234.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+GT-A--CCCTCAAG---CCTT-GCTT----------GGTGTTGGG--------CG--ATT
+G---------TTCCGCTGCGCGCGCGAACTCGCCTCAAAT--CTATTGGCAG-----CCG
+GCGATGTGGC----GTCTGA----GCG----CAGCACAC---------------------
+--TTTGCGCGC-------------------AGCGC------CGCGT-----------CGT
+GGC-G------TCCA--CGAAGCCCC----------AATCTATAC-------
+>ASV1069_Pleosporales GS|98.5|KU188656|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+GT-A--CCCTCCAG---CCCT-GCTG----------GGTGTTGGG--------CG--TTT
+TGTTCCGCTGCGCGCG--------TGAACTCGCCTCAAAT--GCATTGGCAGCCAGCCGT
+CCCGCGTGGG----AGCGCA----GCACATTTTGCGCTT---------------------
+--TCC----GC------------T-----------------GGGTG-----------CGG
+C----------GGCGTCCACAAGCCTATAACTTTA---------C-------
+>ASV899_Pleosporales GS|99.2|MG207657|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+GT-A--CCCTCCAG---CCCT-GCTG----------GGTGTTGGG--------CG--TTT
+TGTTCCGCTGCGCGCG--------TGAACTCGCCTCAAAT--GCATTGGC---------A
+GCCCGCCGTCCCGTGTGGGA----GCG----CAGCACAT-------------TTTGCGCT
+CTTC-----GC------------T---GCTGACGG----------------------TGG
+CAT---------CCA--TAAAGTCTA------CCA----TTT--TAC-----
+>ASV969_Pleosporales GS|99.6|MG207657|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+GT-A--CCCTCCAG---CCCT-GCTG----------GGTGTTGGG--------CG--TTT
+TGTTCCGCTGCGCGCG--------TGAACTCGCCTCAAAT--GCATTGGC---------A
+GCCCGCCGTCCCGTGTGGGA----GCG----CAGCACAT-------------TTTGCGCT
+CTCC-----GC------------T---GCTGACGG------TGGCA--------------
+-----------TCCA--TAAAGTCTA------CCA----TTT--TAC-----
+>ASV991_Didymellaceae GS|100.0|MH451949|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Didymellaceae
+GT-A--CCTTCAAG---CTTT-GCTT----------GGTGTTGGG--------TG--TTT
+GTCTCGCCTCTGCGCG--------CAGACTCGCCTCAAAA--CGATTGGCAG-----CCG
+GCGTATTGAT----TTCGGA----GCG----CAGTACATC--------------------
+--TC-----GC---GCTTTGTAGT---CTCAACGA------CGACG--------------
+-----------TCCA--AAAAGTACT-------------TTTTTCAC-----
+>ASV1355_Pleosporales GS|100.0|KY589405|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+GT-A--CCTTCAAG---CTTT-GCTT----------GGTGTTGGG--------TG-----
+-----TTTGTCTCGCCTCTGCGTGTAGACTCGCCTCAAAA--CAATTGGCAG-----CCG
+GCGTATTGAT----TTCGGA----GCG----CAGTACATC--------------------
+--TC-----GCGCTTTGCACTCAT---AACGACGA-------------------------
+--C--------GTCC--AAAAGTACA------TTT----TTA--CAC-----
+>ASV1642_Didymella_pinodella GS|99.6|DQ525734|SH1547057.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Didymellaceae,g:Didymella,s:Didymella pinodella
+GT-A--CCTTCAAG---CTCT-GCTT----------GGTGTTGGG--------TG--TTT
+GTCTC-----GCCTCTGCGC---GTAGACTCGCCTCAAAA--CAATTGGCAG-----CCG
+GCGTATTGAT----TTCGGA----GCG----CAGTACATC--------------------
+--TC-----GC------------G---CTTTGCAT-------------------T--CAG
+AAC-GAC----GACGTCCAAAAGTAC---------ATTTTTA--CAC-----
+>ASV1285_Thyrostroma_compactum GS|98.2|KX228249|SH1572994.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,g:Thyrostroma,s:Thyrostroma compactum
+---GTACCCTCAAG---CTCT-GCTT----------GGTGTTGGG--------TG-----
+-----TTTGTTCCGCCTTTGCGTGTGAACTCGCCTTAAAA--CAATTGGCAG-----CCG
+GCGTACTTGT----TTCGGA----GCG----CAGCACATTTT------------------
+---------GC-------------------GCCCC------AGAGC-------AGTGTAG
+GTT--------GGCATCCAAGAAGCC-------------TTTTTTAAAGC--
+>ASV1506_Pleosporales US|0.8433|KT242513|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+---GTACCTTCAAG---CTTT-GCTT----------GGTGTTGGG--------CG---TG
+TTTGT-----CCCCCTTTTATGCGGGGACTCGCCTTGAAT--GGATTGGCAG-----CCG
+GCAATCTGGT----GTTGGA----GCG----CAGCA-----CAATAT-------------
+--GC-----GC------------TCTATACCACGA----------------------CAG
+T-C-GGC----GTCC--AGTAAGCCTACACTTTCA---------C-------
+>ASV842_Alternaria GSL|100.0|MG984559|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae,g:Alternaria
+GT-A--CCCTCAAG---CTTT-GCTT----------GGTGTTGGG--------CG--TCT
+TGTCTCTAGCTTTGCT-------GGAGACTCGCCTTAAAG--TAATTGGCAG-----CCG
+GCCTACTGGT----TTCGGA----GCG----CAGCACAAGTCGCAC--------------
+--TC-----TC------------T---ATCAGCAA------AGGTC-----------TAG
+C-A--------TCCA--TTAAGCCTT-------------TTTTTCAAC----
+>ASV935_Alternaria GSL|100.0|MG984559|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae,g:Alternaria
+GT-A--CCCTCAAG---CTTT-GCTT----------GGTGTTGGG--------CG--TCT
+TGTCTCTAGCTTTGCT-------GGAGACTCGCCTTAAAG--TAATTGGCAG-----CCG
+GCCTACTGGT----TTCGGA----GCG----CAGCACAAGTCGCAC--------------
+--TC-----TC------------T---ATCAGCAA------AGGTC--------------
+--T-AGC---ATCCA--TTAAGCCTT-------------TTTTTCAAC----
+>ASV1537_Alternaria GS|98.0|MH452046|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae,g:Alternaria
+GT-A--CCCTCAAG---CTTT-GCTT----------GGTGTTGGG--------CGTCTTG
+----------TCCCCAGTTCGCTGGAGACTCGCCTTAAAG--TCATTGGCAG-----CCG
+GCCTACTGGT----TTCGGA----GCG----CAGCA-----CAGTCG-------------
+---C-----GC------------T---CTCTTCCA------------------GC--CAA
+G---GTCAGCGTCCA--CCAAGCCTT-------------TTTTCAAC-----
+>ASV398_Pleosporaceae GS|100.0|MH452511|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae
+GT-A--CCCTCAAG---CTTT-GCTT----------GGTGTTGGG--------CGTCTTG
+----------TCTCCAGTCCGCTGGAGACTCGCCTTAAAG--TCATTGGCAG-----CCG
+GCCTACTGGT----TTCGGA----GCG----CAGCACAAG--------------------
+--TC-----GC------ACTCTTT---TCCAGCCA------AGGTC-------AG-----
+--C--------GTCC--AACAAGCCT-------------TTTTTCAAC----
+>ASV1164_Pleosporales GS|100.0|MH452511|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae
+---GTACCCTCAAG---CTTT-GCTT----------GGTGTTGGG--------CG--TCT
+TGTCTCCAGTCCGCTG--------GAGACTCGCCTTAAAG--TCATTGGCAG-----CCG
+GCCTACTGGT----TTCGGA----GCG----CAGCACAAG--------------------
+--TC-----GC--------ACTCTTTTCCAGCCAA------GGTCA-------GC-----
+-----------GTCC--AACAAGCCT-------------TTTTTCAAC----
+>ASV1027_Pleosporales GS|99.6|MH452511|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae
+---GTACCCTCAAG---CTTT-GCTT----------GGTGTTGGG--------CGTCTTG
+----------TCTCCAGTCTGCTGGAGACTCGCCTTAAAG--TCATTGGCAG-----CCG
+GCCTACTGGT----TTCGGA----GCG----CAGCACAAG--------------------
+--TC-----GC--------ACTCTTTTCCAGCCAA------GGTCA-------GC-----
+-----------GTCC--AACAAGCCT-------------TTTTTCAAC----
+>ASV913_Hazslinszkyomyces GS|100.0|KU537072|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Coniothyriaceae,g:Hazslinszkyomyces
+GT-A--CCCTCAAG---CTCT-GCTT----------GGTGTTGGG--------TG--TTT
+G---------TCTCGCATTACGCGTAGACTCGCCTTAAAG--CGATTGGCAG-----CCG
+GCATATTGGC----CTTGGA----GCG----CAGCACATTTT------------------
+--GC-----GC------------T---TCTTGTCA----------------------TGA
+A-T-GTTGGCGTCCA--TTAAGC----------------CTATACATTTGC-
+>ASV1508_Coniothyriaceae GS|99.4|KU537072|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Coniothyriaceae
+GT-A--CCTTCAAG---CTCT-GCTT----------GGTGTTGGG----TGTTTG--TCT
+CGCAT-----TACGCG--------TAGACTCGCCTTAAAG--CGATTGGCAG-----CCG
+GCATATTGGC----CTTGGA----GCG----CAGCACATTTT------------------
+--GC-----GC------------T---TCTTGTCA------TGAAT-------GT--TGG
+C----------GTCC--ATTAAGCCT------ATACATTTGC----------
+>ASV1625_Pleosporaceae GS|98.6|MH474529|SH1142834.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae
+GT-A--CCCTCAAG---CCTT-GCTT----------GGTGTTGGG--------TG-----
+-------TTTGTCTTCATTACTTGGAGACTCGCCTTAAAA--CAATTGGCAG-----CCG
+GCATACTGGT----TCCGGA----GCG----CAGCACATTTT------------------
+--GC-----GC------------T---TCTTTCCA----------------------CGC
+A---TGCTAGCGTCC--ATGAAGTCT------ACA----TTTTTAAC-----
+>ASV1394_Pleosporaceae GS|99.5|KX402518|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales,f:Pleosporaceae
+GT-A--CCCTCAAG---CTTT-GCTT----------GGTGTTGGG--------CG-----
+----TTTTGTCTTTCG---------AGACTCGCCTTAAAA--AGATTGGCAG-----CCG
+GCATACTGGT----TTCGGA----GCG----CAGCACAAATT------------------
+---------GC------------------------------GGTCT-------GTTCCTG
+AAT-GTCGACGTCCA--TGAAGCCCC-------CA----TTAT-CAC-----
+>ASV1032_Pleosporales SS|0.9900|EF159180|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+GT-A--CCCTCAAG---CCTT-GCTT----------GGTGTTGGG--------TGTTGT-
+----------CCCCTG---------GGACTCGCCTCAAAA--TAATTGGCAG-----CCG
+GCATATTGGTTCGGAGCGCAGCACAAA----TTGCGG-----------------------
+--TC-------------------T---TTCCATGA------------------ATGTCGG
+CGT---------CCA--TGAAGCCCA-------------TTTTCCAC-----
+>ASV1063_Pleosporales GS|99.6|EU480193|SH1505876.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+---GTACCCTCAAG---CCTT-GCTT----------GGTGTTGGG--------TG-----
+-----TTTGTCCTCCA---------AGACTCGCCTTAAAA--CAATTGGCAGCCGGCATA
+TTGGTTTCGG----AGCGCA----GCACAAATTGCGGTC---------------------
+--CT-----TC-------------------CATGA------------------ATGTCGG
+CAT---------CCA--TGAAGCCCC-------CA----TTTTCCAC-----
+>ASV1152_Pleosporales GS|98.9|EU480194|SH1505876.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+GT-A--CCCTCAAG---CCTT-GCTT----------GGTGTTGGG----TGTTTG-----
+----------TCCTCT--------AGGACTCGCCTTAAAA--CAATTGGCAG-----CCG
+GCATATTGGT----TTCGGA----GCG----CAGCACAAATT------------------
+--GC-----GG------------T---CTTTCCAT------GAATG-------TC--GGC
+A----------TCCA--TGAAGCCCC-------CA----TTTTCCAC-----
+>ASV1391_Capnodiales US|0.9208|MG198185|SH1507373.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CTCCGGCTT----------GGTATTGAG----CTTTCG-----
+----------CCCCTA-------TTGGGCGGGCTTCAAAC--GCCGCGGC--------GA
+GTGTCCCCGG----ACCCCA---AGCG----TATCGAGT--TACTTTCCGTCTTGGTGGC
+CATC--------------------------GGCGA------CGTCC-------GC-----
+--C-GGCCTTTGCGG--CCATATCCC-------------TTTTTAA------
+>ASV1040_Sydowia_polyspora GS|100.0|MG984567|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Dothideales,f:Dothioraceae,g:Sydowia,s:Sydowia polyspora
+-C-A-CCACTCAAG---CATC-GCTT----------GGTATTGGG------AACG-----
+-----------GTCCGTCGAAAGGCGGGCCTTCCTCGAAG--ACCTCGGC-------GGG
+GTTCAACCAA----CTTCGG----GCG----TAGTAGAGTTAAATCGAACG---------
+--TC-------------------T------TATAA------GCTTG-------GT--CGG
+ATC---TCATTGCCG--TTAAACCT-------TTA-AATTTTCTA-------
+>ASV1273_Sydowia_polyspora GS|100.0|MG984567|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Dothideales,f:Dothioraceae,g:Sydowia,s:Sydowia polyspora
+-C-A-CCACTCAAG---CATC-GCTT----------GGTATTGGG------AACG-----
+-----------GTCCGTCGAAAGGCGGGCCTTCCTCGAAG--ACCTCGGC-------GGG
+GTTCAACCAA----CTTCGG----GCG----TAGTAGAGTTAAATCGAACGTCTTATAAG
+CTTG-----GT----------------------------------------------CGG
+ATC---TCATTGCCG--TTAAACCTT------TAAA---TTTTCTA------
+>ASV1097_Dothideales GS|100.0|KR266790|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Dothideales
+-C-A-CCACTCAAG---CACT-GCTT----------GGTATTGGG----CACTCG-----
+---------TCCGTCG---AAAGACGGGCGTGCCTCGAAG--ACCTCGGC-------GGG
+GTTTCTCCAA----CTTCGG----GCG----TAGTAGAGTTAAATCA-AAACGT------
+--CTTATAAGC------------T-----TGGTGA------GATCT--------------
+C---ATT----GCCG--TTAAACCTT------T----T-TTTTTCA------
+>ASV1345_Dothideales GS|98.6|KP890967|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Dothideales
+-C-A-CCACTCAAG---CATC-GCTT----------GGTATTGGG----CACTCG-----
+---------TCCGCCG---AAAGGCGGGCGTGCCTCGAAG--ACCTCGGC-------GGG
+GTTTCTCCAA----CTTCGG----GCG----TAGTAGAGTTAAATCA-AAACGT------
+--CTTATAAGC------------T-----TGGTGA------GATCT--------------
+C---ATT----GCCG--TTAAACCTC------TTT-AT-TTTTTCA------
+>ASV952_Aureobasidiaceae GS|100.0|KJ826984|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Dothideales,f:Aureobasidiaceae
+-C-A-CCACTCAAG---CTAT-GCTT----------GGTATTGGG--------CG--TCG
+----------TCCTTA------GTTGGGCGCGCCTTAAAG--ACCTCGGC-------GAG
+GCCTCACCGG----CTTTAG----GCG----TAGTAGAATTTATTCAATAACGT------
+--CT-----GT------------C---AATGGAGA------GGACT-------TC-----
+--T--------GCCGACTGAAACCT-------TTATTTTTTA--CA------
+>ASV1061_Aureobasidium GS|99.6|MH474514|SH1515060.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Dothideales,f:Aureobasidiaceae,g:Aureobasidium
+-C-A-CCACTCAAG---CTAT-GCTT----------GGTATTGGG--------CG-----
+-------------TCGTCCTTAGTTGGGCGCGCCTTAAAG--ACCTCGGC-------GAG
+GCCTCACCGG----CTTTAG----GCG----TAGTAGAATTTATTCAATAACGT------
+--CT-----GT------------C------AATGG------------------AG--AGG
+ACT-TCT----GCCGACTGAAA--CC------TTTATTTTTA--CA------
+>ASV1002_Celosporium GS|100.0|KU536178|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Dothideales,f:Dothideaceae,g:Celosporium
+-C-A-CCACTCAAG---CTCA-GCTT----------GGTATTAGG----CCATCG-----
+---------CCCCGCG---AAAGCAGGGCGTGCCTCAAAA--ACCTCGGC-------GGA
+GCCTCACCGG----CTTTGG----GCG----TAGTAGAA-------------TT------
+--TCTCAACGT------------C------CTTGA------AGTCT-------CCGGTAG
+GGC-CTCCTTTGCCG--TTAAACCCC------AAACTTTTTA---A------
+>ASV1563_Celosporium GS|99.6|JN835192|SH1149677.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Dothideales,f:Dothideaceae,g:Celosporium
+-C-A-CCACTCAAG---CTCT-GCTT----------GGTATTAGG----CCGTCG-----
+---------CCCCGCG---AAAGCAGGGCGTGCCTCAAAA--ACCTCGGC-------GGA
+GCCTCACCGG----CTTTGG----GCG----TAGTAGAA-------------TT------
+--TCTCAACGT------------C------CTTGA------AGTCT-------CCGGTAG
+GGC-CTCTTTTGCCG--TTAAACCCCAAACTATTT----TTA---A------
+>ASV218_Capnodiales US|0.9344|KU062583|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+---ACACCCTCAAG---CCTG-GCTT----------GGTCTTGGG--------CA--TCG
+GGACG-----GACCCG--------------TGCCTCAAAT--CCAGAGGT-------GGG
+ATGGAGCGTAT---TTCCCA----GCG----TCGTCTAAACAAAC---------------
+--TC-----GC------------T---TCGATCCGCACATCTGCTA-------AC--CCC
+ATC-TGC----GTCG--GTGAC--CCGGACCTTCA---------CA------
+>ASV373_Capnodiales US|0.9344|KU062583|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+---ACACCCTCAAG---CCTG-GCTT----------GGTCTTGGG--------CA--TCG
+GGACG-----GACCCG--------------TGCCTCAAAT--CCAGAGGT-------GGG
+ATG-GAGCGTAT--TTCCCA----GCG----TCGTCTAAACAAAC---------------
+--TC-----GC-------------------TTCGA---TCCGCACA-------TCTGCTA
+ACCCCATCTGCGTCG--GTGAC--CCGGACCTTCA---------CA------
+>ASV719_Capnodiales SS|0.9200|JF691138|SH1231818.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATG
+GAACC-----ACTCCA--------------CGCCTCGATT--TCACCGGC-------TGG
+ATC-ACTTAA----TCCTTA----GCG----TTGCGGCATCAAGT---------------
+--TC-----GC------------T------AACGG------AGAGG-------GT-----
+----GTTTCGCGCCG--TTAAA------------AATATTTATTCAA-----
+>ASV1092_Elasticomyces_elasticus GS|98.5|JF705950|SH1645391.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Teratosphaeriaceae,g:Elasticomyces,s:Elasticomyces elasticus
+-C-A-CCACTCAAG---CCTA-GCTT----------GGTCTTGGG--------CGATCCG
+CGGTC----CGCCGCG--------------CGCCCCAATG--TCTTCGGC-------TGA
+GC--GACCGT----CTCGAA----GCG----TTGTGGTA---ACCCA-----AA------
+--TC-----GC------------T------TGCGGAGTGCGGGAGT-----------TCG
+G----------GCCG--TTAAACACC------CCC----ATA--CA------
+>ASV1197_Elasticomyces_elasticus GS|98.5|JF705950|SH1645391.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Teratosphaeriaceae,g:Elasticomyces,s:Elasticomyces elasticus
+-C-A-CCACTCAAG---CCTA-GCTT----------GGTCTTGGG--------CGATCCG
+CGGTC----CGCCGCG--------------CGCCCCAATG--TCTTCGGC-------TGA
+GC--GACCGT----CTCGAA----GCG----TTGTGGTA---ACCCA-----AA------
+--TC-----GC------------T------TGCGGAGTGCGGGAGT-----------TCG
+G----------GCCG--TTAAACACC------------CCCATACA------
+>ASV1125_Lapidomyces GS|99.6|KM494287|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Teratosphaeriaceae,g:Lapidomyces
+-C-A-CCACTCAAG---CCTC-GCTT----------GGTATTGGG--------CG--CCG
+CGCTT----CGGCGCG--------------CGCCTCAATG--TATCCGGC-------TGA
+GCC-GTCCGT----CTCTAA----GCG----TTGTGGCA---CTTTATGTTT--------
+--CC-----GC------------T-------TCGG------------------AGCTCGG
+GAG-GTCTTGCGCCG--TTAAACACC------CCA----TCA--AA------
+>ASV1459_Capnodiales SS|0.8600|AY843125|SH1149518.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTC-GCTT----------GGTATTGGG--------CG--TCG
+CGCCT-----GCCGCG--------------CGCCTCAATG--TTTCCGGC-------TGA
+GCT-CATCGT----CTCTTA----GCG----TTGTGA----CAACCATGT----------
+--TC-----GC------------TTCTGAGATTGA----------------------TGG
+GTT-CGC----GCCG--TCAAAACCA------TTA----CTCTAAA------
+>ASV1456_Capnodiales SS|0.9500|AY843125|SH1149518.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTC-GCTT----------GGTATTGGG--------CG--TCG
+CGCCT-----GCCGCG--------------CGCCTCAATG--TATCCGGC-------TGA
+GCTCGTCGT-----CTCTTA----GCG----TTGTGACA---AAACATGT--T-------
+---C-----GC------------T------TCTGA------GATCG-------AT--GGG
+T-T-CGT----GCCG--ACCAAATCG------TCATTTTTTA--AA------
+>ASV1022_Cladosporium GS|100.0|DQ679501|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Cladosporiaceae,g:Cladosporium
+-C-A-CCACTCAAG---CCTC-GCTT----------GGTATTGGG--------CA--ACG
+CGGTC----CGCCGCG--------------TGCCTCAAAT--CGTCCGGC-------TGG
+GTCTTCTGTC----CCCTAA----GCG----TTGTGGAAACTATTCGCTAAAGG------
+---------GT-------------------GTTCG------GGAGG--------------
+--C-TAC----GCCG--TAAAACAAC-----CCCA----TTTCTAA------
+>ASV1135_Cladosporiaceae GS|100.0|GU055729|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Cladosporiaceae
+-C-A-CCACTCAAG---CCTC-GCTT----------GGTATTGGG--------CA--ACG
+CGGTC----CGCCGCG--------------TGCCTCAAAT--CGTCCGGC-------TGG
+GTCTTCTGTC----CCCTAA----GCG----TTGTGGAAACTATTCGCTAAAGG------
+---------GT-------------------GTTCG------GGAGG--------------
+--C-TAC----GCCG--TAAAACAAC-----CCCA----TTTCTAA------
+>ASV1136_Cladosporiaceae GS|100.0|GU055729|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Cladosporiaceae
+-C-A-CCACTCAAG---CCTC-GCTT----------GGTATTGGG--------CA--ACG
+CGGTC----CGCCGCG--------------TGCCTCAAAT--CGTCCGGC-------TGG
+GTCTTCTGTC----CCCTAA----GCG----TTGTGGAAACTATTCGCTAAAGG------
+---------GT-------------------GTTCG------GGAGG--------------
+--C-TAC----GCCG--TAAAACAAC-----CCCA----TTTCTAA------
+>ASV1421_Cladosporiaceae GS|100.0|GU055729|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Cladosporiaceae
+-C-A-CCACTCAAG---CCTC-GCTT----------GGTATTGGG--------CA--ACG
+CGGTC----CGCCGCG--------------TGCCTCAAAT--CGTCCGGC-------TGG
+GTCTTCTGTC----CCCTAA----GCG----TTGTGGAAACTATTCGCTAAAGG------
+---------GT-------------------GTTCG------GGAGG--------------
+--C-TAC----GCCG--TAAAACAAC-----CCCA----TTTCTAA------
+>ASV171_Rachicladosporium GS|98.8|KX777065|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Cladosporiaceae,g:Rachicladosporium
+-C-A-CCACTCAAG---CCTC-GCTT----------GGTGTTGGG--------CG--ACG
+CGGTTGAAAAGCCGCG--------------CGCCTCTAAA--CGACCGGC-------TGG
+GTC-GACCGT----CCCTCA----GCG----TTGTGGAAACAGTTCGCTACGGG------
+--TC-----GC-------------------GGTCG------GGCAC--------------
+-----------GCCG--TTAAACAAC------CCA------ACTCAAA----
+>ASV166_Rachicladosporium GS|98.8|KX777065|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Cladosporiaceae,g:Rachicladosporium
+-C-A-CCACTCAAG---CCTC-GCTT----------GGTGTTGGG--------CG--ACG
+CGGTTGAAAAGCCGCG--------------CGCCTCTAAA--CGACCGGC-------TGG
+GTC-GACCGT----CCCTCA----GCG----TTGTGGAAACAGTTCGCTACGGG------
+--TC-----GC-------------------GGTCG------GGCAC--------------
+-----------GCCG--TTAAACAAC------CCA------ACTCAAA----
+>ASV474_Rachicladosporium GS|98.8|KX777065|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Cladosporiaceae,g:Rachicladosporium
+-C-A-CCACTCAAG---CCTC-GCTT----------GGTGTTGGG--------CG--ACG
+CGGTTGAAAAGCCGCG--------------CGCCTCTAAA--CGACCGGC-------TGG
+GTC-GACCGT----CCCTCA----GCG----TTGTGGAAACAGTTCGCTACGGG------
+--TC-----GC-------------------GGTCG------GGCAC--------------
+-----------GCCG--TTAAACAAC------CCA------ACTCAAA----
+>ASV516_Rachicladosporium GS|98.8|KX777065|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Cladosporiaceae,g:Rachicladosporium
+-C-A-CCACTCAAG---CCTC-GCTT----------GGTGTTGGG--------CG--ACG
+CGGTTGAAAAGCCGCG--------------CGCCTCTAAA--CGACCGGC-------TGG
+GTC-GACCGT----CCCTCA----GCG----TTGTGGAAACAGTTCGCTACGGG------
+--TC-----GC-------------------GGTCG------GGCAC--------------
+-----------GCCG--TTAAACAAA-CAAACTCA---------AA------
+>ASV732_Oleoguttula_mirabilis GS|99.6|KJ827361|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Teratosphaeriaceae,g:Oleoguttula,s:Oleoguttula mirabilis
+-C-A-CCACTCAAG---CCTC-GCTT----------GGTATTGGG--------CG--CCG
+CGGTC----CGCCGCA--------------CGCCTCAATG--ACCCCGGC-------TGG
+GTC-CTCTGT----CCCTCA----GCG----TTGTGCAAATCAATCC-------------
+---------GC------------T------GGCAA------GGGTA-----------CGG
+G-C-GACGCACGCCG--TTAAACCTC------ACA---------CAA-----
+>ASV1077_Oleoguttula_mirabilis GS|99.5|KX403339|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Teratosphaeriaceae,g:Oleoguttula,s:Oleoguttula mirabilis
+-C-A-CCACTCAAG---CCTC-GCTT----------GGTATTGGG--------CG--CCG
+CGGTC----CGCCGCA--------------CGCCTCAATG--ACCCCGGC-------TGG
+GTC-CTCTGT----CCCTCA----GCG----TTGTGCAAATCAATCC-------------
+---------GC------------T------GGCAA------GGGTA-----------CGG
+G-C-GACGCACGCCG--TTAAACCTC------ACA---------CAA-----
+>ASV1184_Teratosphaeriaceae GS|99.2|KJ827361|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Teratosphaeriaceae
+-C-A-CCACTCAAG---CCTC-GCTT----------GGTATTGGG--------CG--CCG
+CGGTC----CGCCGCG--------------CGCCTCAATG--ACCCCGGC-------TGG
+GTC-CTCTGT----CCCTCA----GCG----TTGTGCAAATCAATCC-------------
+---------GC------------T------GGCAA------GGGTA-----------CGG
+G-C-GACGCACGCCG--TTAAACCTC------ACA---------CAA-----
+>ASV263_Vermiconia_calcicola GS|98.5|FJ265744|SH1586756.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Extremaceae,g:Vermiconia,s:Vermiconia calcicola
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--TCC
+GGCAC----TCACCTG------------CCCGCCCCAAATTCTCTTCGGC-------TGA
+TCGGTTTACT----TTCTTA----GCG----TTGGAGTG--TTGTCATTACGTT------
+--CC-----GC------------T-----CATCGA-----AAGACG-----------CCG
+ACC-G------GCCG--TTAAACATT-------------TTATTCAC-----
+>ASV200_Vermiconia_calcicola GS|99.6|AJ972849|SH1586756.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Extremaceae,g:Vermiconia,s:Vermiconia calcicola
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--TCC
+GGCAC----TCACCTG------------CCCGCCCCAAATTCTCTTCGGC-------TGA
+TCGGTTTACT----TTCTTA----GCG----TTGGAGTG--TTGTCATTACGTT------
+--CC-----GC------------T-----AATCGA------AAGAC-------GC--CGG
+CCG--------GCCG--TTAAACCAT-------------TTATTCAC-----
+>ASV412_Vermiconia_calcicola GS|98.9|AJ972849|SH1586756.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Extremaceae,g:Vermiconia,s:Vermiconia calcicola
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--TCC
+GGCAC----TCACCTG------------CCCGCCCCAAATTCTCTTCGGC-------TGA
+TCGGTTTACT----TTCTTA----GCG----TTGGAGTG--TTGTCATTACGTT------
+--CC-----GC------------T-----AATCGA------AAGAC-------GC--CGG
+C-C-G------GCCG--TTAAACCAT-------------TTATTCAC-----
+>ASV471_Vermiconia_calcicola GS|99.6|FJ265743|SH1586756.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Extremaceae,g:Vermiconia,s:Vermiconia calcicola
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--TCC
+GGCAC----TCACCTG------------CCCGCCCCAAATTCTCTTCGGC-------TGA
+TCGGTTTACT----TTCTTA----GCG----TTGGAGTG--TTGTCATTACGTT------
+--CC-----GC------------T-----AATCGA------AAGAC-------GC--CGG
+C-C-G------GCCG--TTAAACATT-------------TTAATCAC-----
+>ASV364_Vermiconia_calcicola GS|99.3|FJ265744|SH1586756.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Extremaceae,g:Vermiconia,s:Vermiconia calcicola
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--TCC
+GGCAC----TCACCTG------------CCCGCCCCAAATTCTCTTCGGC-------TGA
+TCGGTTTACT----TTCTTA----GCG----TTGGAGTG--TTGCCATTACGTT------
+--CC-----GC------------T-----AATCGA------AAGAC-------GC--CGG
+C-C-G------GCCG--TTAAACATT-------------TTATTCAC-----
+>ASV206_Vermiconia_calcicola GS|98.9|FJ265744|SH1586756.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Extremaceae,g:Vermiconia,s:Vermiconia calcicola
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--TCC
+GGCAC----TCACCTG------------CCCGCCCCAAATTCTCTTCGGC-------TGA
+TCGGTTTACT----TTCTTA----GCG----TTGGAGTG--TTGTCATTACGTT------
+--CC-----GC------------T-----AATCGA------AAGAC-------GC--CGG
+C-C-G------GCCG--TTAAACATT-------------TTATTCAC-----
+>ASV317_Vermiconia_calcicola GS|99.3|FJ265744|SH1586756.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Extremaceae,g:Vermiconia,s:Vermiconia calcicola
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--TCC
+GGCAC----TCACCTG------------CCCGCCCCAAATTCTCTTCGGC-------TGA
+TCGGTTTACT----TTCTTA----GCG----TTGGAGTG--TTGTCATTACGTT------
+--CC-----GC------------T-----AATCGA------AAGAC-------GC--CGG
+C-C-G------GCCG--TTAAACATT-------------TTATTCAC-----
+>ASV1580_Capnodiales US|0.8821|KT244886|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-A-ACCCAATCAAG---CCCA-GCTT----------GGTCTTGGG--------CG--GCG
+GGATG-----TCCCCG--------------CGCCCCAATT--TCGCCGGC-------TGG
+ACGCGATCGG----TTCTCA----GCG----TTAGAATA--AGATC--------------
+---C-----GC------------T------GATCG------AATCG-------CG--CGG
+G-C-A-C----GCCG--TTAAA--TT------CCA----TCAATCA------
+>ASV1306__Capnodiales GS|99.6|KC965858|SH1190253.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-A-ACCCAATCGGC---CCCG-CCTTAGTCGGTGCCGGTCTTGGG--------CG--TCG
+GGGGA------CCCCG--------------CGCCTCAATT--TCACCGGC-------TGG
+ACG-ACCCGA----ATCTCA----GCG----TTGTGGCT--TCA-CA-----TC------
+--TC-----GC------------T------GATTG------AGACC-------GG--TCG
+G-C-CAC----GCCG--ATAAA-GCC------TTT----TCA--CA------
+>ASV142_Capnodiales GS|98.0|KC965438|SH1180666.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CC--CCG
+GGGGC-----GACCCG--------------GACCCCAAAA--GCGTCGGC-------TGG
+AAA-ACTCTG----AACGCA----GCG----TCGTGGTA--TCAT-------AC------
+--TC-----GC------------T------GGCG-------GGAGG-------GG--GGT
+T-C-CGC----GCCG--TTAAA---C------CCA----TCA--AA------
+>ASV203_Capnodiales GS|99.6|KC965438|SH1180666.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CC--CCG
+GGGGC-----GACCCG--------------GACCCCAAAA--GCGTCGGC-------TGG
+AAA-ACTCTG----AACGCA----GCG----TCGTGGTA--TCAT-------AT------
+--TC-----GC------------T------GGCGA------GAAGG-------GG--GGT
+T-C-CGC----GCCG--TTAAA---C------CCA----TCA--CA------
+>ASV309_Capnodiales GS|99.2|KC965438|SH1180666.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CC--CCG
+GGGGC-----GACCCG--------------GACCCCAAAA--GCGTCGGC-------TGG
+AAA-ACTCTG----AACGCA----GCG----TCGTGGTA--TCAT-------AT------
+--TC-----GC------------T------GGCGA------GAAGG-------GG--GGT
+T-C-CGC----GCCG--TTAAA---C------CCA----TTA--CA------
+>ASV382_Capnodiales GS|97.7|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----CTCCTA--------------CGCCTTTAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GAAGG-------AC--CAG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV222_Capnodiales GS|98.4|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----GTCCTA--------------CGCCTTCAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGC-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV333_Capnodiales GS|98.8|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----GTCCTA--------------CGCCTTCAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGC-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV418_Capnodiales GS|97.2|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----CTCCTA--------------CGCCTTTAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----CA------
+--TC-----GC------------T------GGCGA------GGAGG-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV445_Capnodiales SS|0.9800|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATC
+GGAGT-----CTCCTA--------------CGCCTTTAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGG-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV81_Capnodiales GS|98.1|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----CTCCTA--------------CGCCTTTAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGG-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV19_Capnodiales GS|98.8|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----CTCCTA--------------CGCCTTTAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGG-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV90_Capnodiales GS|99.2|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----CTCCTA--------------CGCCTTTAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGG-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV138_Capnodiales GS|99.6|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----CTCCTA--------------CGCCTTTAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGG-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV594_Capnodiales GS|97.6|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----CTCCTA--------------CGCCTTTAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGG-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV1476_Capnodiales GS|99.2|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----CTCCTA--------------CGCCTTTAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGG-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV1142_Capnodiales GS|99.6|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----CTCCTA--------------CGCCTTTAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGC-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTC--CA------
+>ASV96_Capnodiales GS|98.8|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----CTCCTA--------------CGCCTTGAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGC-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV184_Capnodiales GS|99.2|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----CTCCTA--------------CGCCTTGAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGC-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV758_Capnodiales GS|99.6|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----CTCCTA--------------CGCCTTGAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGC-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV956_Capnodiales GS|98.1|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----CTCCTA--------------CGCCTTGAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGC-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV244_Capnodiales GS|99.6|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----CTCCTA--------------CGCCTTTAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGC-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV301_Capnodiales GS|99.6|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----CTCCTA--------------CGCCTTTAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGC-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV369_Capnodiales GS|99.2|KC966161|SH1231854.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCACTCAAG---CCTG-GCTT----------GGTATTGGG--------CG--ATA
+GGAGT-----CTCCTA--------------CGCCTTTAAT--TCTTCGGC-------TGG
+ACG-GTACGA----ATCTCA----GCG----TTGTGGTT--TAATCA-----AA------
+--TC-----GC------------T------GGCGA------GGAGC-------AC--CGG
+A-C-GTC----GCCG--TAAAA--CT------TCA----TTA--CA------
+>ASV964_Incertomyces_vagans GS|98.8|KC965905|SH1641292.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Extremaceae,g:Incertomyces,s:Incertomyces vagans
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CG--GCG
+GGGGA------CCCCG--------------CGCCCTCAAT--TCATCGGC-------TGG
+ACG-GTTCGA----ATCTCA----GCG----TTGTGG-T--CAATCA-----AT------
+--TC-----GC------------T------GGCGA------GGACG-------AC--CGG
+A-C-G-C----GCCG--CTAAACCCC------TCA----CCA--CA------
+>ASV1117_Incertomyces_vagans GS|98.1|KC965905|SH1641292.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Extremaceae,g:Incertomyces,s:Incertomyces vagans
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CG--GCG
+GGGGA------CCCCG--------------CGCCCTCAAT--TCATCGGC-------TGG
+ACG-GTTCGA----ATCTCA----GCG----TTGTGG-T--CAATCA-----AT------
+--TC-----GC------------T------GGCGA------GGACG-------AC--CGG
+A-C-G-C----GCCG--CTAAACCCC------TCA----CCA--CA------
+>ASV617_Incertomyces_vagans GS|98.8|KC965905|SH1641292.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Extremaceae,g:Incertomyces,s:Incertomyces vagans
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CG--GCG
+GGGGA------CCCCG--------------CGCCCTCAAT--TCATCGGC-------TGG
+ACG-GTTCGA----ATCTCA----GCG----TTGTGG-T--CAATCA-----AT------
+--TC-----GC------------T------GGCGA------GGACG-------AC--CGG
+A-C-G-C----GCCG--CTAAACCCC------TCA----TCA--CA------
+>ASV809_Incertomyces_vagans GS|99.6|KC965905|SH1641292.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Extremaceae,g:Incertomyces,s:Incertomyces vagans
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CG--GCG
+GGGGA------CCCCG--------------CGCCCTCAAT--TCATCGGC-------TGG
+ACG-GTTCGA----ATCTCA----GCG----TTGTGG-T--CAATCA-----AT------
+--TC-----GC------------T------GGCGA------GGACG-------AC--CGG
+A-C-G-C----GCCG--CTAAACCCC------TCA----TCA--CA------
+>ASV1008_Capnodiales US|0.9847|EU516901|SH1231796.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CG--GCG
+GGAGA------CCCCG--------------CGCCCTCAAT--TCATCGGC-------TGG
+ACG-GTTGGA----ATCCTA----GCG----TTGTGG-T--TAATCA-----AT------
+--TC-----GC------------T------GGCGA------GGAGG-------AC--CGG
+A-C-G-C----GCCA--TTAAA--CC------TCA----CCA--CA------
+>ASV125_Capnodiales SS|0.9900|KU559824|SH1231796.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CG--GCG
+GGGGA-----TCCCCG--------------CGCCCTCAAT--TCATCGGC-------TGG
+ACG-GTTCGA----ATCCTA----GCG----TAGTGG-T--TAATCA-----AT------
+--TC-----GC------------T------GGCGA------GGACC-------AC--CGG
+A-C-G-C----GCCG--TTAAA--CC------TCA----CTA--CA------
+>ASV170_Capnodiales US|0.9847|KU559824|SH1231796.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CG--GCG
+GGGGA-----TCCCCG--------------CGCCCTCAAT--TCATCGGC-------TGG
+ACG-GTTCGA----ATCCTA----GCG----TAGTGG-T--TAATCA-----AT------
+--TC-----GC------------T------GGCGA------GGACC-------AC--CGG
+A-C-G-C----GCCG--TTAAA--CC------TCA----CTA--CA------
+>ASV254_Capnodiales SS|0.9900|KU559824|SH1231796.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CG--GCG
+GGGGA-----TCCCCG--------------CGCCCTCAAT--TCATCGGC-------TGG
+ACG-GTTCGA----ATCCTA----GCG----TAGTGG-T--TAATCA-----AT------
+--TC-----GC------------T------GGCGA------GGACC-------AC--CGG
+A-C-G-C----GCCG--TTAAA--CC------TCA----CTA--CA------
+>ASV635_Capnodiales SS|1.0000|KX402497|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CG--GCG
+GGGGA-----TCCCCG--------------CGCCCTCAAT--TCATCGGC-------TGG
+ACG-GTTCGA----ATCCTA----GCG----TAGTGG-T--TAATCA-----AT------
+--TC-----GC------------T------GGCGA------GGACC-------AC--CGG
+A-C-G-C----GCCG--TTAAA--CC------TCA----CTA--CA------
+>ASV826_Capnodiales SS|0.9700|KX402497|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CG--GCG
+GGGGA-----TCCCCG--------------CGCCCTCAAT--TCATCGGC-------TGG
+ACG-GTTCGA----ATCCTA----GCG----TAGTGG-T--TAATCA-----AT------
+--TC-----GC------------T------GGCGA------GGACC-------AC--CGG
+A-C-G-C----GCCG--TTAAA--CC------TCA----CTA--CA------
+>ASV357_Capnodiales SS|0.9900|KU559824|SH1231796.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CG--GCG
+GGGGA-----TCCCCG--------------CGCCCTCAAT--TCATCGGC-------TGG
+ACG-GTTCGA----ATCCTA----GCG----TGGTGG-T--TAATCA-----AT------
+--TC-----GC------------T------GGCGA------GGATC-------AC--CGG
+A-C-G-C----GCCG--TTAAA--CC------TCA----CTA--CA------
+>ASV531_Capnodiales US|0.9847|KU559824|SH1231796.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CG--GCG
+GGGGA-----TCCCCG--------------CGCCCTCAAT--TCATCGGC-------TGG
+ACG-GTTCGA----ATCCTA----GCG----TGGTGG-T--TAATCA-----AT------
+--TC-----GC------------T------GGCGA------GGATC-------AC--CGG
+A-C-G-C----GCCG--TTAAA--CC------TCA----CTA--CA------
+>ASV579_Capnodiales SS|1.0000|KU559824|SH1231796.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CG--GCG
+GGGGA-----TCCCCG--------------CGCCCTCAAT--TCATCGGC-------TGG
+ACG-GTTCGA----ATCCTA----GCG----TGGTGG-T--TAATCA-----AT------
+--TC-----GC------------T------GGCGA------GGATC-------AC--CGG
+A-C-G-C----GCCG--TTAAA--CC------TCA----CTA--CA------
+>ASV695_Capnodiales SS|1.0000|KU559824|SH1231796.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CG--GCG
+GGGGA-----TCCCCG--------------CGCCCTCAAT--TCATCGGC-------TGG
+ACG-GTTCGA----ATCCTA----GCG----TGGTGG-T--TAATCA-----AT------
+--TC-----GC------------T------GGCGA------GGATC-------AC--CGG
+A-C-G-C----GCCG--TTAAA--CC------TCA----CTA--CA------
+>ASV742_Capnodiales SS|1.0000|KU559824|SH1231796.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales
+-C-A-CCAATCAAG---CCTG-GCTT----------GGTATTGGG--------CG--GCG
+GGGGA-----TCCCCG--------------CGCCCTCAAT--TCATCGGC-------TGG
+ACG-GTTCGA----ATCCTA----GCG----TGGTGG-T--TAATCA-----AT------
+--TC-----GC------------T------GGCGA------GGATC-------AC--CGG
+A-C-G-C----GCCG--TTAAA--CC------TCA----CTA--CA------
+>ASV1046_Pleosporales US|0.8884|KY322114|NA;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Pleosporales
+GC-AACCCATCGAGTAACATC-TCTC----------GGTCTTGGG-----CGCCG--TCC
+CGACC-----CCTTCG---CGGGGGGGACGGGCCCCAAAG--CCCTCGGCGGCCCTGGGC
+GTCCGCCGGAGCGTCTTCGA----AAG----CGATCGCT------CCGCGCGTG------
+--GC-----GC------------C-------CCGG------GACCC-------GC--CG-
+-----GC----ACCG--CGGCCTCCC------CGG----TCGCACAC-----
+>ASV440_Elasticomyces_elasticus GS|98.3|KF309959|SH1183798.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Teratosphaeriaceae,g:Elasticomyces,s:Elasticomyces elasticus
+-C-A-ACACTCAAG---CCCCCGCTT----------GGTATTAGG----CCTCCG-----
+---------TCCCCCCTCCGCGGCGGGACGGGCCTCGAAA--TCCTCGGC-------GGG
+GCCCGCCGG-----CTTCAG----GCG----CAGTAGAA---------------------
+--CT-----GT------------T---TCCGCCCA------GAAGG-----------CCG
+G-TGGGCGCGTGCCG----CGACCCC------CAA----TTCTCCAA-----
+>ASV456_Elasticomyces_elasticus GS|97.9|KF309959|SH1183798.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Teratosphaeriaceae,g:Elasticomyces,s:Elasticomyces elasticus
+-C-A-ACACTCAAG---CCCCCGCTT----------GGTATTAGG----CCTCCG-----
+---------TCCCCCCTCCGCGGCGGGACGGGCCTCGAAA--TCCTCGGC-------GGG
+GCCCGCCGG-----CTTCAG----GCG----CAGTAGAA---------------------
+--CT-----GT------------T---TCCGCCCA------GAAG--------GC--CGG
+T-G-GGCGCGTGCCG----CGACCCC------CAA----TTCTCCAA-----
+>ASV659_Elasticomyces_elasticus GS|98.7|KF309959|SH1183798.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Teratosphaeriaceae,g:Elasticomyces,s:Elasticomyces elasticus
+-C-A-ACACTCAAG---CCCCCGCTT----------GGTATTAGG----CCTCCG-----
+---------TCCCCCCTCCGCGGCGGGACGGGCCTCGAAA--TCCTCGGC-------GGG
+GCCCGCCGG-----CTTCAG----GCG----CAGTAGAA---------------------
+--CT-----GT------------T---TCCGCCCA------GAAG--------GC--CGG
+T-G-GGCGCGTGCCG----CGACCCC------CAA----TTCTCCAA-----
+>ASV767_Elasticomyces_elasticus GS|98.3|KF309959|SH1183798.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Teratosphaeriaceae,g:Elasticomyces,s:Elasticomyces elasticus
+-C-A-ACACTCAAG---CCCCGGCTT----------GGTATTAGG----CCTCCG-----
+---------TCCCCCCTCCGTGGCGGGACGGGCCTCGAAA--TCTTCGGC-------GGG
+GCCCGCCGG-----CTTCAG----GCG----CAGTAGAA---------------------
+--CT-----GT------------T---TCCGCCCA------GAAGG-----------CCG
+G-TGGGCGCGTGCCG----CGACCCC------CAA----TTCTCCAA-----
+>ASV847_Elasticomyces_elasticus GS|98.7|KF309959|SH1183798.08FU;k:Fungi,p:Ascomycota,c:Dothideomycetes,o:Capnodiales,f:Teratosphaeriaceae,g:Elasticomyces,s:Elasticomyces elasticus
+-C-A-ACACTCAAG---CCCCGGCTT----------GGTATTAGG----CCTCCG-----
+---------TCCCCCCTCCGTGGCGGGACGGGCCTCGAAA--TCTTCGGC-------GGG
+GCCCGCCGG-----CTTCAG----GCG----CAGTAGAA---------------------
+--CT-----GT------------T---TCCGCCCA------GAAG--------GC--CGG
+T-G-GGCGCGTGCCG----CGACCCC------CAA----TTCTCCAA-----

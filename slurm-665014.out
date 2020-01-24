@@ -1,0 +1,196 @@
+ITSx -- Identifies ITS sequences and extracts the ITS region
+by Johan Bengtsson-Palme et al., University of Gothenburg
+Version: 1.1b1
+-----------------------------------------------------------------
+Fri Jan 24 01:45:11 2020 : Preparing HMM database (should be quick)...
+Fri Jan 24 01:45:11 2020 : Checking and handling input sequence data (should not take long)...
+Fri Jan 24 01:45:11 2020 : Comparing sequences to HMM database (this may take a long while)...
+    Fri Jan 24 01:45:18 2020 : Fungi analysis of main strand finished.
+    Fri Jan 24 01:45:23 2020 : Fungi analysis of complementary strand finished.
+    Fri Jan 24 01:45:27 2020 : Metazoa analysis of main strand finished.
+    Fri Jan 24 01:45:30 2020 : Metazoa analysis of complementary strand finished.
+    Fri Jan 24 01:45:33 2020 : Tracheophyta analysis of main strand finished.
+    Fri Jan 24 01:45:35 2020 : Tracheophyta analysis of complementary strand finished.
+    Fri Jan 24 01:45:36 2020 : Alveolates analysis of main strand finished.
+    Fri Jan 24 01:45:38 2020 : Alveolates analysis of complementary strand finished.
+    Fri Jan 24 01:45:39 2020 : Oomycota analysis of main strand finished.
+    Fri Jan 24 01:45:40 2020 : Oomycota analysis of complementary strand finished.
+    Fri Jan 24 01:45:41 2020 : Chlorophyta analysis of main strand finished.
+    Fri Jan 24 01:45:42 2020 : Chlorophyta analysis of complementary strand finished.
+    Fri Jan 24 01:45:43 2020 : Rhizaria analysis of main strand finished.
+    Fri Jan 24 01:45:43 2020 : Rhizaria analysis of complementary strand finished.
+    Fri Jan 24 01:45:44 2020 : Marchantiophyta analysis of main strand finished.
+    Fri Jan 24 01:45:45 2020 : Marchantiophyta analysis of complementary strand finished.
+    Fri Jan 24 01:45:46 2020 : Amoebozoa analysis of main strand finished.
+    Fri Jan 24 01:45:47 2020 : Amoebozoa analysis of complementary strand finished.
+    Fri Jan 24 01:45:47 2020 : Rhodophyta analysis of main strand finished.
+    Fri Jan 24 01:45:48 2020 : Rhodophyta analysis of complementary strand finished.
+    Fri Jan 24 01:45:49 2020 : Bacillariophyta analysis of main strand finished.
+    Fri Jan 24 01:45:49 2020 : Bacillariophyta analysis of complementary strand finished.
+    Fri Jan 24 01:45:50 2020 : Bryophyta analysis of main strand finished.
+    Fri Jan 24 01:45:50 2020 : Bryophyta analysis of complementary strand finished.
+    Fri Jan 24 01:45:51 2020 : Euglenozoa analysis of main strand finished.
+    Fri Jan 24 01:45:52 2020 : Euglenozoa analysis of complementary strand finished.
+    Fri Jan 24 01:45:52 2020 : Phaeophyceae analysis of main strand finished.
+    Fri Jan 24 01:45:52 2020 : Phaeophyceae analysis of complementary strand finished.
+    Fri Jan 24 01:45:53 2020 : Haptophyceae analysis of main strand finished.
+    Fri Jan 24 01:45:54 2020 : Haptophyceae analysis of complementary strand finished.
+    Fri Jan 24 01:45:54 2020 : Raphidophyceae analysis of main strand finished.
+    Fri Jan 24 01:45:55 2020 : Raphidophyceae analysis of complementary strand finished.
+    Fri Jan 24 01:45:55 2020 : Synurophyceae analysis of main strand finished.
+    Fri Jan 24 01:45:56 2020 : Synurophyceae analysis of complementary strand finished.
+    Fri Jan 24 01:45:56 2020 : Eustigmatophyceae analysis of main strand finished.
+    Fri Jan 24 01:45:57 2020 : Eustigmatophyceae analysis of complementary strand finished.
+Fri Jan 24 01:45:57 2020 : Analysing results of HMM-scan (this might take quite some time)...
+Fri Jan 24 01:45:57 2020 : Extraction finished!
+-----------------------------------------------------------------
+Thank you for using ITSx!
+Please report bugs or unsupported lineages to itsx@microbiology.se
+
+ITSx -- Identifies ITS sequences and extracts the ITS region
+by Johan Bengtsson-Palme et al., University of Gothenburg
+Version: 1.1b1
+-----------------------------------------------------------------
+Fri Jan 24 01:45:57 2020 : Preparing HMM database (should be quick)...
+Fri Jan 24 01:45:57 2020 : Checking and handling input sequence data (should not take long)...
+Fri Jan 24 01:45:57 2020 : Comparing sequences to HMM database (this may take a long while)...
+    Fri Jan 24 01:46:06 2020 : Fungi analysis of main strand finished.
+    Fri Jan 24 01:46:13 2020 : Fungi analysis of complementary strand finished.
+    Fri Jan 24 01:46:19 2020 : Metazoa analysis of main strand finished.
+    Fri Jan 24 01:46:23 2020 : Metazoa analysis of complementary strand finished.
+    Fri Jan 24 01:46:27 2020 : Tracheophyta analysis of main strand finished.
+    Fri Jan 24 01:46:30 2020 : Tracheophyta analysis of complementary strand finished.
+    Fri Jan 24 01:46:32 2020 : Alveolates analysis of main strand finished.
+    Fri Jan 24 01:46:33 2020 : Alveolates analysis of complementary strand finished.
+    Fri Jan 24 01:46:35 2020 : Oomycota analysis of main strand finished.
+    Fri Jan 24 01:46:36 2020 : Oomycota analysis of complementary strand finished.
+    Fri Jan 24 01:46:38 2020 : Chlorophyta analysis of main strand finished.
+    Fri Jan 24 01:46:39 2020 : Chlorophyta analysis of complementary strand finished.
+    Fri Jan 24 01:46:40 2020 : Rhizaria analysis of main strand finished.
+    Fri Jan 24 01:46:41 2020 : Rhizaria analysis of complementary strand finished.
+    Fri Jan 24 01:46:42 2020 : Marchantiophyta analysis of main strand finished.
+    Fri Jan 24 01:46:43 2020 : Marchantiophyta analysis of complementary strand finished.
+    Fri Jan 24 01:46:44 2020 : Amoebozoa analysis of main strand finished.
+    Fri Jan 24 01:46:45 2020 : Amoebozoa analysis of complementary strand finished.
+    Fri Jan 24 01:46:46 2020 : Rhodophyta analysis of main strand finished.
+    Fri Jan 24 01:46:46 2020 : Rhodophyta analysis of complementary strand finished.
+    Fri Jan 24 01:46:47 2020 : Bacillariophyta analysis of main strand finished.
+    Fri Jan 24 01:46:48 2020 : Bacillariophyta analysis of complementary strand finished.
+    Fri Jan 24 01:46:49 2020 : Bryophyta analysis of main strand finished.
+    Fri Jan 24 01:46:50 2020 : Bryophyta analysis of complementary strand finished.
+    Fri Jan 24 01:46:51 2020 : Euglenozoa analysis of main strand finished.
+    Fri Jan 24 01:46:51 2020 : Euglenozoa analysis of complementary strand finished.
+    Fri Jan 24 01:46:52 2020 : Phaeophyceae analysis of main strand finished.
+    Fri Jan 24 01:46:52 2020 : Phaeophyceae analysis of complementary strand finished.
+    Fri Jan 24 01:46:53 2020 : Haptophyceae analysis of main strand finished.
+    Fri Jan 24 01:46:54 2020 : Haptophyceae analysis of complementary strand finished.
+    Fri Jan 24 01:46:55 2020 : Raphidophyceae analysis of main strand finished.
+    Fri Jan 24 01:46:55 2020 : Raphidophyceae analysis of complementary strand finished.
+    Fri Jan 24 01:46:56 2020 : Synurophyceae analysis of main strand finished.
+    Fri Jan 24 01:46:56 2020 : Synurophyceae analysis of complementary strand finished.
+    Fri Jan 24 01:46:57 2020 : Eustigmatophyceae analysis of main strand finished.
+    Fri Jan 24 01:46:58 2020 : Eustigmatophyceae analysis of complementary strand finished.
+Fri Jan 24 01:46:58 2020 : Analysing results of HMM-scan (this might take quite some time)...
+Fri Jan 24 01:46:58 2020 : Extraction finished!
+-----------------------------------------------------------------
+Thank you for using ITSx!
+Please report bugs or unsupported lineages to itsx@microbiology.se
+
+ITSx -- Identifies ITS sequences and extracts the ITS region
+by Johan Bengtsson-Palme et al., University of Gothenburg
+Version: 1.1b1
+-----------------------------------------------------------------
+Fri Jan 24 01:46:58 2020 : Preparing HMM database (should be quick)...
+Fri Jan 24 01:46:58 2020 : Checking and handling input sequence data (should not take long)...
+Fri Jan 24 01:46:58 2020 : Comparing sequences to HMM database (this may take a long while)...
+    Fri Jan 24 01:46:59 2020 : Fungi analysis of main strand finished.
+    Fri Jan 24 01:47:00 2020 : Fungi analysis of complementary strand finished.
+    Fri Jan 24 01:47:01 2020 : Metazoa analysis of main strand finished.
+    Fri Jan 24 01:47:01 2020 : Metazoa analysis of complementary strand finished.
+    Fri Jan 24 01:47:02 2020 : Tracheophyta analysis of main strand finished.
+    Fri Jan 24 01:47:02 2020 : Tracheophyta analysis of complementary strand finished.
+    Fri Jan 24 01:47:03 2020 : Alveolates analysis of main strand finished.
+    Fri Jan 24 01:47:03 2020 : Alveolates analysis of complementary strand finished.
+    Fri Jan 24 01:47:03 2020 : Oomycota analysis of main strand finished.
+    Fri Jan 24 01:47:03 2020 : Oomycota analysis of complementary strand finished.
+    Fri Jan 24 01:47:03 2020 : Chlorophyta analysis of main strand finished.
+    Fri Jan 24 01:47:04 2020 : Chlorophyta analysis of complementary strand finished.
+    Fri Jan 24 01:47:04 2020 : Rhizaria analysis of main strand finished.
+    Fri Jan 24 01:47:04 2020 : Rhizaria analysis of complementary strand finished.
+    Fri Jan 24 01:47:04 2020 : Marchantiophyta analysis of main strand finished.
+    Fri Jan 24 01:47:04 2020 : Marchantiophyta analysis of complementary strand finished.
+    Fri Jan 24 01:47:05 2020 : Amoebozoa analysis of main strand finished.
+    Fri Jan 24 01:47:05 2020 : Amoebozoa analysis of complementary strand finished.
+    Fri Jan 24 01:47:05 2020 : Rhodophyta analysis of main strand finished.
+    Fri Jan 24 01:47:05 2020 : Rhodophyta analysis of complementary strand finished.
+    Fri Jan 24 01:47:05 2020 : Bacillariophyta analysis of main strand finished.
+    Fri Jan 24 01:47:05 2020 : Bacillariophyta analysis of complementary strand finished.
+    Fri Jan 24 01:47:05 2020 : Bryophyta analysis of main strand finished.
+    Fri Jan 24 01:47:05 2020 : Bryophyta analysis of complementary strand finished.
+    Fri Jan 24 01:47:06 2020 : Euglenozoa analysis of main strand finished.
+    Fri Jan 24 01:47:06 2020 : Euglenozoa analysis of complementary strand finished.
+    Fri Jan 24 01:47:06 2020 : Phaeophyceae analysis of main strand finished.
+    Fri Jan 24 01:47:06 2020 : Phaeophyceae analysis of complementary strand finished.
+    Fri Jan 24 01:47:06 2020 : Haptophyceae analysis of main strand finished.
+    Fri Jan 24 01:47:06 2020 : Haptophyceae analysis of complementary strand finished.
+    Fri Jan 24 01:47:06 2020 : Raphidophyceae analysis of main strand finished.
+    Fri Jan 24 01:47:06 2020 : Raphidophyceae analysis of complementary strand finished.
+    Fri Jan 24 01:47:06 2020 : Synurophyceae analysis of main strand finished.
+    Fri Jan 24 01:47:06 2020 : Synurophyceae analysis of complementary strand finished.
+    Fri Jan 24 01:47:07 2020 : Eustigmatophyceae analysis of main strand finished.
+    Fri Jan 24 01:47:07 2020 : Eustigmatophyceae analysis of complementary strand finished.
+Fri Jan 24 01:47:07 2020 : Analysing results of HMM-scan (this might take quite some time)...
+Fri Jan 24 01:47:07 2020 : Extraction finished!
+-----------------------------------------------------------------
+Thank you for using ITSx!
+Please report bugs or unsupported lineages to itsx@microbiology.se
+
+ITSx -- Identifies ITS sequences and extracts the ITS region
+by Johan Bengtsson-Palme et al., University of Gothenburg
+Version: 1.1b1
+-----------------------------------------------------------------
+Fri Jan 24 01:47:07 2020 : Preparing HMM database (should be quick)...
+Fri Jan 24 01:47:07 2020 : Checking and handling input sequence data (should not take long)...
+Fri Jan 24 01:47:07 2020 : Comparing sequences to HMM database (this may take a long while)...
+    Fri Jan 24 01:47:10 2020 : Fungi analysis of main strand finished.
+    Fri Jan 24 01:47:13 2020 : Fungi analysis of complementary strand finished.
+    Fri Jan 24 01:47:15 2020 : Metazoa analysis of main strand finished.
+    Fri Jan 24 01:47:17 2020 : Metazoa analysis of complementary strand finished.
+    Fri Jan 24 01:47:18 2020 : Tracheophyta analysis of main strand finished.
+    Fri Jan 24 01:47:20 2020 : Tracheophyta analysis of complementary strand finished.
+    Fri Jan 24 01:47:20 2020 : Alveolates analysis of main strand finished.
+    Fri Jan 24 01:47:21 2020 : Alveolates analysis of complementary strand finished.
+    Fri Jan 24 01:47:22 2020 : Oomycota analysis of main strand finished.
+    Fri Jan 24 01:47:22 2020 : Oomycota analysis of complementary strand finished.
+    Fri Jan 24 01:47:23 2020 : Chlorophyta analysis of main strand finished.
+    Fri Jan 24 01:47:23 2020 : Chlorophyta analysis of complementary strand finished.
+    Fri Jan 24 01:47:24 2020 : Rhizaria analysis of main strand finished.
+    Fri Jan 24 01:47:24 2020 : Rhizaria analysis of complementary strand finished.
+    Fri Jan 24 01:47:25 2020 : Marchantiophyta analysis of main strand finished.
+    Fri Jan 24 01:47:25 2020 : Marchantiophyta analysis of complementary strand finished.
+    Fri Jan 24 01:47:25 2020 : Amoebozoa analysis of main strand finished.
+    Fri Jan 24 01:47:26 2020 : Amoebozoa analysis of complementary strand finished.
+    Fri Jan 24 01:47:26 2020 : Rhodophyta analysis of main strand finished.
+    Fri Jan 24 01:47:27 2020 : Rhodophyta analysis of complementary strand finished.
+    Fri Jan 24 01:47:27 2020 : Bacillariophyta analysis of main strand finished.
+    Fri Jan 24 01:47:27 2020 : Bacillariophyta analysis of complementary strand finished.
+    Fri Jan 24 01:47:28 2020 : Bryophyta analysis of main strand finished.
+    Fri Jan 24 01:47:28 2020 : Bryophyta analysis of complementary strand finished.
+    Fri Jan 24 01:47:28 2020 : Euglenozoa analysis of main strand finished.
+    Fri Jan 24 01:47:29 2020 : Euglenozoa analysis of complementary strand finished.
+    Fri Jan 24 01:47:29 2020 : Phaeophyceae analysis of main strand finished.
+    Fri Jan 24 01:47:29 2020 : Phaeophyceae analysis of complementary strand finished.
+    Fri Jan 24 01:47:30 2020 : Haptophyceae analysis of main strand finished.
+    Fri Jan 24 01:47:30 2020 : Haptophyceae analysis of complementary strand finished.
+    Fri Jan 24 01:47:30 2020 : Raphidophyceae analysis of main strand finished.
+    Fri Jan 24 01:47:31 2020 : Raphidophyceae analysis of complementary strand finished.
+    Fri Jan 24 01:47:31 2020 : Synurophyceae analysis of main strand finished.
+    Fri Jan 24 01:47:31 2020 : Synurophyceae analysis of complementary strand finished.
+    Fri Jan 24 01:47:31 2020 : Eustigmatophyceae analysis of main strand finished.
+    Fri Jan 24 01:47:32 2020 : Eustigmatophyceae analysis of complementary strand finished.
+Fri Jan 24 01:47:32 2020 : Analysing results of HMM-scan (this might take quite some time)...
+Fri Jan 24 01:47:32 2020 : Extraction finished!
+-----------------------------------------------------------------
+Thank you for using ITSx!
+Please report bugs or unsupported lineages to itsx@microbiology.se
+
